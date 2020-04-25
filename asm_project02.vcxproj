@@ -21,9 +21,6 @@
   <ItemGroup>
     <MASM Include="AddTwoSum_64.asm" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="README" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{9A76D2DC-448A-4582-9082-9F3A4E8E4089}</ProjectGuid>
