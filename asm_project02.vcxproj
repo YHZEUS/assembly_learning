@@ -19,10 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="SumArray_64.asm" />
+    <None Include="README" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="README" />
+    <MASM Include="SumArray_64.asm" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
