@@ -3,3 +3,6 @@ AddTwoSum_64.asm
 
 整数数组求和
 SumArray_64.asm
+
+测试64位链接库
+CallProc_64.asm
